@@ -1,0 +1,54 @@
+{
+  "next_id": 4,
+  "contacts": [
+    {
+      "id": "c1",
+      "name": "Dana Lee",
+      "company": "Charles Schwab",
+      "role": "Risk analyst",
+      "met_at": "ASU fall career fair",
+      "met_on": "2026-10-24",
+      "notes": "Works on market risk; studied math at ASU too; said the summer analyst app opens in January",
+      "email": null,
+      "phone": null,
+      "linkedin": null,
+      "followed_up": null,
+      "hooks": [
+        {"n": 1, "text": "Summer analyst application opens; tell her you applied", "on": "2027-01-05", "done": null}
+      ],
+      "log": []
+    },
+    {
+      "id": "c2",
+      "name": "Marcus Hill",
+      "company": "Western Alliance Bank",
+      "role": "Data engineer",
+      "met_at": "CS club info night",
+      "met_on": "2026-10-20",
+      "notes": "Builds pipelines in Python; recommended learning SQL window functions",
+      "email": "marcus@example.com",
+      "phone": null,
+      "linkedin": null,
+      "followed_up": "2026-10-21",
+      "hooks": [
+        {"n": 1, "text": "Share what you built after learning window functions", "on": "2026-10-28", "done": null}
+      ],
+      "log": []
+    },
+    {
+      "id": "c3",
+      "name": "Priya Shah",
+      "company": "Intel",
+      "role": "Recruiter",
+      "met_at": "Engineering career fair",
+      "met_on": "2026-06-10",
+      "notes": "Handles intern recruiting for Chandler",
+      "email": null,
+      "phone": null,
+      "linkedin": "https://www.linkedin.com/in/example",
+      "followed_up": "2026-06-11",
+      "hooks": [],
+      "log": []
+    }
+  ]
+}
